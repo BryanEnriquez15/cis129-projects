@@ -1,2 +1,2 @@
 # cis129-projects
-The second lab.
+The short story.
